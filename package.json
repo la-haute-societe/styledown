@@ -1,5 +1,5 @@
 {
-  "name": "styledown",
+  "name": "lhs-styledown",
   "description": "Markdown-based styleguide generator",
   "keywords": [
     "markdown",
@@ -7,15 +7,14 @@
     "styleguide"
   ],
   "author": "Rico Sta. Cruz <hi@ricostacruz.com>",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/styledown/styledown.git"
+    "url": "https://github.com/la-haute-societe/styledown.git"
   },
   "main": "index",
   "scripts": {
-    "test": "mocha",
-    "prepublish": "make -B dist"
+    
   },
   "dependencies": {
     "cheerio": "0.22.0",

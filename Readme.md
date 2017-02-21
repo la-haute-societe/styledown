@@ -12,7 +12,7 @@ Installation
 ------------
 
 ``` bash
-$ npm install -g styledown
+$ npm install -g lhs-styledown
 $ styledown --help
 ```
 
