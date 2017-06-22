@@ -1,3 +1,9 @@
+# Deprecation warning
+
+This package has been renamed to [@lahautesociete/styledown][]
+
+[@lahautesociete/styledown]: https://www.npmjs.com/package/@lahautesociete/styledown
+
 Styledown
 =========
 
