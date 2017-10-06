@@ -12,7 +12,7 @@ Installation
 ------------
 
 ``` bash
-$ npm install -g lhs-styledown
+$ npm install -g @lahautesociete/styledown
 $ styledown --help
 ```
 
